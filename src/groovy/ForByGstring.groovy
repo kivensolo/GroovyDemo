@@ -1,11 +1,9 @@
 package groovy
 
 /**
- * Copyright(C) 2017, 北京视达科科技有限公司
- * All rights reserved. <br>
  * author: King.Z <br>
  * date:  2018/4/2 22:31 <br>
- * description: XXXXXXX <br>
+ * description: String of Groovy <br>
  */
 def var = """ hello  world ,groovy!"""
 //使用类java方法
